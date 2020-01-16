@@ -10,3 +10,8 @@ project of developing quality applications
  I like to be called: Mounika
  My GitHub username is: Mpuvvada2172
  I have used GitHub before.
+
+My name is: Sandeep Reddy 
+ I like to be called: Sandeep (Sunny)
+ My GitHub username is: skomirelly0183
+ I have used GitHub before.
